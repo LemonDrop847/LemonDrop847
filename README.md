@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @LemonDrop847
-- 👀 I’m interested in Unity Game Development,Flutter,CP,etc.
+- 👋 Hi, I’m LemonDrop
+- 👀 I’m interested in GameDev,Flutter,CP,etc.
 - 🌱 I’m currently learning a lot of stuff🐣
 - 💞️ I’m looking to collaborate on any and all interesting stuff😇
 - 📫 How to reach me? Just drop in a message on discord(LemonDrop47#0152)😀
