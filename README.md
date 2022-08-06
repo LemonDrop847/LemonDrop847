@@ -1,8 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;Unity+GameDev;Competitve+Programmer;Full+Stack+WebDev+(MERN)&center=true&height=60&size=45&font=Cookie&color=5edd26)](https://git.io/typing-svg)
+<div align= "center" markdown="1">
 
-- 👋 Hi, I’m LemonDrop
-- 🌱 I’m currently learning a lot of stuff🐣
-- 💞️ I’m looking to collaborate on any and all interesting stuff😇
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;Unity+GameDev;Competitve+Programmer;Full+Stack+WebDev+&center=true&height=60&size=45&font=Cookie&color=5edd26)](https://git.io/typing-svg)
+
+👋 Hi, I’m LemonDrop  
+🌱 I’m currently learning a lot of stuff🐣  
+💞️ I’m looking to collaborate on any and all interesting stuff😇  
 
 ### 📫 Me on the Web
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/lemondrop847)](https://twitter.com/lemondrop847)
@@ -21,6 +23,7 @@
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -35,9 +38,8 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-
 ![Visitor Badge](https://komarev.com/ghpvc/?username=LemonDrop847&color=blueviolet&style=for-the-badge&label=Visitors+Here)
-
+</div>
 
 <!---
 LemonDrop847/LemonDrop847 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
