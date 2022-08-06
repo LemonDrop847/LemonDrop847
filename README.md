@@ -1,6 +1,6 @@
 <div align= "center" markdown="1">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;Unity+GameDev;Competitve+Programmer;Full+Stack+WebDev+&center=true&height=60&size=45&font=Cookie&color=5edd26)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&height=60&width=600&size=40&font=Fira+Sans&color=a15fdf&vCenter=true&lines=Flutter+Developer;Unity+GameDev;Competitve+Programmer;Full+Stack+WebDev;)](https://git.io/typing-svg)
 
 👋 Hi, I’m LemonDrop  
 🌱 I’m currently learning a lot of stuff🐣  
@@ -12,7 +12,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/lemon_drop_847/)](https://instagram.com/lemon_drop_847)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:awesomenitin847@gmail.com)](mailto:awesomenitin847@gmail.com)
 
-### Stuff I try my best to understand
+
+
+### Stuff I Try My Best To Understand
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -37,6 +39,9 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=LemonDrop847&color=blueviolet&style=for-the-badge&label=Visitors+Here)
 </div>
