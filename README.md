@@ -1,10 +1,13 @@
+👋 Hi, I’m LemonDrop  
+🌱 I’m currently learning a lot of stuff🐣  
+💞️ I’m looking to collaborate on any and all interesting stuff😇  
+
+<!---
 <div align= "center" markdown="1">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&height=60&width=600&size=40&font=Fira+Sans&color=a15fdf&vCenter=true&lines=Flutter+Developer;Unity+GameDev;Competitve+Programmer;Full+Stack+WebDev;)](https://git.io/typing-svg)
 
-👋 Hi, I’m LemonDrop  
-🌱 I’m currently learning a lot of stuff🐣  
-💞️ I’m looking to collaborate on any and all interesting stuff😇  
+Here
 
 ### 🔎 Me on the Web
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/lemondrop847)](https://twitter.com/lemondrop847)
@@ -12,13 +15,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/lemon_drop_847/)](https://instagram.com/lemon_drop_847)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:awesomenitin847@gmail.com)](mailto:awesomenitin847@gmail.com)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/LemonDrop847)](https://github.com/LemonDrop847)
-<!---
+
 ### Noob CP profiles  
 [![Codechef](https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.rating&url=https://competitive-coding-api.herokuapp.com/api/codechef/sherbet_lemon&prefix=Rating%20&color=684273&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=86400)](https://www.codechef.com/users/sherbet_lemon)
 [![Codeforces](https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/lemondrop_47&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400)](https://codeforces.com/profile/lemondrop_47)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/lemondrop_847)](https://www.hackerrank.com/lemondrop_847)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/LemonDrop47/)](https://leetcode.com/LemonDrop47/)
--->
+
 ### 🖥️Stuff I Try My Best To Understand
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)  
@@ -50,7 +53,6 @@
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=LemonDrop847&color=blueviolet&style=for-the-badge&label=Visitors+Here)
 </div>
-
 <!---
 LemonDrop847/LemonDrop847 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
