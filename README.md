@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;Competitve+Programmer;Full+Stack+Web+(MERN))](https://git.io/typing-svg)
+
 - 👋 Hi, I’m LemonDrop
 - 👀 I’m interested in GameDev,Flutter,CP,etc.
 - 🌱 I’m currently learning a lot of stuff🐣
