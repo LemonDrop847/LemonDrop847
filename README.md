@@ -1,13 +1,12 @@
 👋 Hi, I’m LemonDrop  
 🌱 I’m currently learning a lot of stuff🐣  
 💞️ I’m looking to collaborate on any and all interesting stuff😇  
-
 <!---
 <div align= "center" markdown="1">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&height=60&width=600&size=40&font=Fira+Sans&color=a15fdf&vCenter=true&lines=Flutter+Developer;Unity+GameDev;Competitve+Programmer;Full+Stack+WebDev;)](https://git.io/typing-svg)
 
-Here
+here
 
 ### 🔎 Me on the Web
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/lemondrop847)](https://twitter.com/lemondrop847)
@@ -28,13 +27,16 @@ Here
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&link=https://cplusplus.com/)](https://cplusplus.com/)
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&link=https://www.cprogramming.com/)](https://www.cprogramming.com/)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&link=https://www.python.org/)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white&link=https://www.java.com/en/)](https://www.java.com/en/)  
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white&link=https://www.java.com/en/)](https://www.java.com/en/)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  
 [![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white&link=https://unity.com/)](https://unity.com/)
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&link=https://docs.microsoft.com/en-us/dotnet/csharp/)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white&link=https://www.unrealengine.com/en-US)](https://www.unrealengine.com/en-US)  
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white&link=https://flutter.dev/)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white&link=https://dart.dev/)](https://dart.dev/) 
-[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&link=https://firebase.google.com/)](https://firebase.google.com/)  
+[![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white&link=https://dart.dev/)](https://dart.dev/)
+[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&link=https://firebase.google.com/)](https://firebase.google.com/)
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)]()
+[![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)]()  
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&link=https://devdocs.io/html/)](https://devdocs.io/html/)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&link=https://devdocs.io/css/)](https://devdocs.io/css/)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white&link=https://getbootstrap.com/)](https://getbootstrap.com/)
