@@ -122,12 +122,18 @@
 ## Yay! More People!
 ![Visitor Badge](https://komarev.com/ghpvc/?username=LemonDrop847&color=blueviolet&style=for-the-badge&label=Visitors+Here)
 ## Yeah Really Bad Stats, I know.
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LemonDrop847&show_icons=true&custom_title=LemonDrop847%27s%20stats%20~&line_height=30&hide_border=true&border_radius=6&bg_color=0d1117&text_color=adbac7&icon_color=FC766A&title_color=5B84B1">
-  <!-- <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=LemonDrop847&show_icons=true&custom_title=LemonDrop847%27s%20stats%20~&line_height=30&hide_border=true&border_radius=6&bg_color=ffffff&text_color=000000&icon_color=5B84B1&title_color=FC766A"> -->
-  <img alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=LemonDrop847&show_icons=true&custom_title=LemonDrop847%27s%20stats%20:&line_height=30&hide_border=true&border_radius=6&bg_color=0d1117&text_color=adbac7&icon_color=FC766A&title_color=5B84B1">
-</picture>
+<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=LemonDrop847&theme=algolia" alt="LemonDrop847" /></p> 
 
+### 💻 Profile Stats
+  <br/>
+    <a href="#"><img alt="LemonDrop's Github Stats:" src="https://github-readme-stats.vercel.app/api?username=LemonDrop847&show_icons=true&locale=en&hide=issues&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="192px"/>
+  <a href="#"><img alt="LemonDrop's Top Languages:" src="https://github-readme-stats.vercel.app/api/top-langs?username=LemonDrop847&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+### ⚡ My Contribution Graph
+  <br/>
+  <a href="#"><img alt="LemonDrop's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=LemonDrop847&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </div>
 <!---
 LemonDrop847/LemonDrop847 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
