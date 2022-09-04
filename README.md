@@ -127,7 +127,7 @@
 ### 💻 Profile Stats
   <br/>
     <a href="#"><img alt="LemonDrop's Github Stats:" src="https://github-readme-stats.vercel.app/api?username=LemonDrop847&show_icons=true&locale=en&hide=issues&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="192px"/>
-  <a href="#"><img alt="LemonDrop's Top Languages:" src="https://github-readme-stats.vercel.app/api/top-langs?username=LemonDrop847&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="192px"/></a>
+  <a href="#"><img alt="LemonDrop's Top Languages:" src="https://github-readme-stats.vercel.app/api/top-langs?username=LemonDrop847&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="192px" width="350px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
