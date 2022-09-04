@@ -1,4 +1,3 @@
-
 <div markdown="1">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=false&height=60&width=600&size=40&font=Montserrat&color=a15fdf&vCenter=true&lines=Hi!;I'm+LemonDrop!;)](https://git.io/typing-svg)
@@ -35,6 +34,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/LemonDrop847/)](https://leetcode.com/LemonDrop847/)
 
 ## Tech Stuff I am Trying My Best To Understand:
+
 <p class="tech" align="left">
 <a href="https://cplusplus.com/" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="CPP" width="40" height="40"/> 
@@ -120,22 +120,20 @@
 </p>
 
 ## Yay! More People!
+
 ![Visitor Badge](https://komarev.com/ghpvc/?username=LemonDrop847&color=blueviolet&style=for-the-badge&label=Visitors+Here)
+
 ## Yeah Really Bad Stats, I know.
-<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=LemonDrop847&theme=algolia" alt="LemonDrop847" /></p> 
 
-### 💻 Profile Stats
-  <br/>
-    <a href="#"><img alt="LemonDrop's Github Stats:" src="https://github-readme-stats.vercel.app/api?username=LemonDrop847&show_icons=true&locale=en&hide=issues&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="192px"/>
-  <a href="#"><img alt="LemonDrop's Top Languages:" src="https://github-readme-stats.vercel.app/api/top-langs?username=LemonDrop847&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="192px" width="450px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=LemonDrop847&theme=algolia" alt="LemonDrop847" /></p>
+<a href="#"><img alt="LemonDrop's Github Stats:" src="https://github-readme-stats.vercel.app/api?username=LemonDrop847&show_icons=true&locale=en&hide=issues&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="192px"/>
+<a href="#"><img alt="LemonDrop's Top Languages:" src="https://github-readme-stats.vercel.app/api/top-langs?username=LemonDrop847&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="192px" width="450px"/></a>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-### ⚡ My Contribution Graph
-  <br/>
-  <a href="#">
-  <img alt="LemonDrop's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=LemonDrop847&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-  </a>
+<br/>
+<a href="#">
+<img alt="LemonDrop's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=LemonDrop847&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</a>
 </div>
 <!---
 LemonDrop847/LemonDrop847 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
