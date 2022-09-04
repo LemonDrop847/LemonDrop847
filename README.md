@@ -1,59 +1,133 @@
-👋 Hi, I’m LemonDrop  
-🌱 I’m currently learning a lot of stuff🐣  
-💞️ I’m looking to collaborate on any and all interesting stuff😇  
-<!---
-<div align= "center" markdown="1">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&height=60&width=600&size=40&font=Fira+Sans&color=a15fdf&vCenter=true&lines=Flutter+Developer;Unity+GameDev;Competitve+Programmer;Full+Stack+WebDev;)](https://git.io/typing-svg)
+<div markdown="1">
 
-here
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=false&height=60&width=600&size=40&font=Montserrat&color=a15fdf&vCenter=true&lines=Hi!;I'm+LemonDrop!;)](https://git.io/typing-svg)
 
-### 🔎 Me on the Web
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/lemondrop847)](https://twitter.com/lemondrop847)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nitin-mishra847/)](https://www.linkedin.com/in/nitin-mishra847/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/lemon_drop_847/)](https://instagram.com/lemon_drop_847)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:awesomenitin847@gmail.com)](mailto:awesomenitin847@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/LemonDrop847)](https://github.com/LemonDrop847)
+🌱 Trying to learn a lot of stuff, quite new to programming🐣  
+💞️ Looking to collaborate on any and all interesting stuff😇  
+🌻 Currently learning <strong>Flutter</strong> and <strong>Dart</strong>.
 
-### Noob CP profiles  
+## Find Me on the Web:
+
+<p class="tech" align="left">
+<a href="https://twitter.com/lemondrop847" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="LemonDrop | Twitter" width="40" height="40"/> 
+</a>
+<a href="https://www.linkedin.com/in/nitin-mishra847/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LemonDrop | LinkedIn" width="40" height="40"/> 
+</a>
+<a href="https://instagram.com/lemon_drop_847" target="_blank"> 
+<img src="https://raw.githubusercontent.com/wle8300/instagram-logo/874dffb6fe7e064ae524959b47dae15d6ffcf224/logo.svg" alt="Instagram" width="40" height="40"/> 
+</a>
+<a href="mailto:awesomenitin847@gmail.com" target="_blank"> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/a0741faa8bddde0800543d6c7000da2df435718b/logos/google-gmail.svg" alt="Java" width="40" height="40"/> 
+</a>
+<a href="https://github.com/LemonDrop847" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Unity" width="40" height="40"/> 
+</a>
+</p>
+
+### My CP profiles:
+
 [![Codechef](https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.rating&url=https://competitive-coding-api.herokuapp.com/api/codechef/sherbet_lemon&prefix=Rating%20&color=684273&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=86400)](https://www.codechef.com/users/sherbet_lemon)
-[![Codeforces](https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/lemondrop_47&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400)](https://codeforces.com/profile/lemondrop_47)
+[![Codeforces](https://img.shields.io/badge/dynamic/json?&color=1f8acb&logo=codeforces&label=Codeforces&url=https://competitive-coding-api.herokuapp.com/api/codeforces/lemondrop_847&query=%24.rating&prefix=Rating%20&style=for-the-badge&cacheSeconds=86400)](https://codeforces.com/profile/lemondrop_847)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/lemondrop_847)](https://www.hackerrank.com/lemondrop_847)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/LemonDrop47/)](https://leetcode.com/LemonDrop47/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/LemonDrop847/)](https://leetcode.com/LemonDrop847/)
 
-### 🖥️Stuff I Try My Best To Understand
+## Tech Stuff I am Trying My Best To Understand:
+<p class="tech" align="left">
+<a href="https://cplusplus.com/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="CPP" width="40" height="40"/> 
+</a>
+<a href="https://www.cprogramming.com/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
+</a>
+<a href="https://www.python.org/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+</a>
+<a href="https://www.java.com/en/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+</a>
+<a href="https://unity.com/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/> 
+</a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
+</a>
+<a href="https://www.unrealengine.com/en-US" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40"/> 
+</a>
+<a href="https://flutter.dev/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/> 
+</a>
+<a href="https://dart.dev/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/> 
+</a>
+<a href="https://firebase.google.com/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/> 
+</a>
+<a href="https://dart.dev/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/> 
+</a>
+<br>
+<a href="https://devdocs.io/html/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML 5" width="40" height="40"/> 
+</a>
+<a href="https://devdocs.io/css/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS 3" width="40" height="40"/> 
+</a>
+<a href="https://getbootstrap.com/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/> 
+</a>
+<a href="https://javascript.info/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+</a>
+<a href="https://www.mongodb.com/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> 
+</a>
+<a href="https://reactjs.org/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="40" height="40"/> 
+</a>
+<a href="https://expressjs.com/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/> 
+</a>
+<a href="https://nodejs.org/en/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> 
+</a>
+<a href="https://git-scm.com/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
+</a>
+<br>
+<a href="https://www.adobe.com/products/aftereffects.html" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="After-Effects" width="40" height="40"/> 
+</a>
+<a href="https://www.adobe.com/products/premierepro.html" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="40" height="40"/> 
+</a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/> 
+</a>
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40"/> 
+</a>
+<a href="https://www.figma.com/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/> 
+</a>
+<a href="https://www.canva.com/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/> 
+</a>
+<br>
+</p>
 
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)  
-[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&link=https://cplusplus.com/)](https://cplusplus.com/)
-[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&link=https://www.cprogramming.com/)](https://www.cprogramming.com/)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&link=https://www.python.org/)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white&link=https://www.java.com/en/)](https://www.java.com/en/)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  
-[![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white&link=https://unity.com/)](https://unity.com/)
-[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&link=https://docs.microsoft.com/en-us/dotnet/csharp/)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white&link=https://www.unrealengine.com/en-US)](https://www.unrealengine.com/en-US)  
-[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white&link=https://flutter.dev/)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white&link=https://dart.dev/)](https://dart.dev/)
-[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&link=https://firebase.google.com/)](https://firebase.google.com/)
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)]()
-[![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)]()  
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&link=https://devdocs.io/html/)](https://devdocs.io/html/)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&link=https://devdocs.io/css/)](https://devdocs.io/css/)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white&link=https://getbootstrap.com/)](https://getbootstrap.com/)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&link=https://javascript.info/)](https://javascript.info/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&link=https://www.mongodb.com/)](https://www.mongodb.com/)
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&link=https://reactjs.org/)](https://reactjs.org/)
-[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB&link=https://expressjs.com/)](https://expressjs.com/)
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&link=https://git-scm.com/)](https://git-scm.com/)  
-[![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white&link=https://www.adobe.com/products/premiere.html)](https://www.adobe.com/products/premiere.html)
-[![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white&link=https://www.adobe.com/products/aftereffects.html)](https://www.adobe.com/products/aftereffects.html)
-[![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white&link=https://www.adobe.com/products/illustrator.html)](https://www.adobe.com/products/illustrator.html)
-[![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white&link=https://www.adobe.com/products/photoshop.html)](https://www.adobe.com/products/photoshop.html)
-[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&link=https://www.figma.com/)](https://www.figma.com/)
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white&link=https://www.canva.com/)](https://www.canva.com/)
-
+## Yay! More People!
 ![Visitor Badge](https://komarev.com/ghpvc/?username=LemonDrop847&color=blueviolet&style=for-the-badge&label=Visitors+Here)
+## Yeah Really Bad Stats, I know.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LemonDrop847&show_icons=true&custom_title=LemonDrop847%27s%20stats%20~&line_height=30&hide_border=true&border_radius=6&bg_color=0d1117&text_color=adbac7&icon_color=FC766A&title_color=5B84B1">
+  <!-- <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=LemonDrop847&show_icons=true&custom_title=LemonDrop847%27s%20stats%20~&line_height=30&hide_border=true&border_radius=6&bg_color=ffffff&text_color=000000&icon_color=5B84B1&title_color=FC766A"> -->
+  <img alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=LemonDrop847&show_icons=true&custom_title=LemonDrop847%27s%20stats%20~&line_height=30&hide_border=true&border_radius=6&bg_color=0d1117&text_color=adbac7&icon_color=FC766A&title_color=5B84B1">
+</picture>
+
 </div>
 <!---
 LemonDrop847/LemonDrop847 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
