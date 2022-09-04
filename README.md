@@ -1,10 +1,11 @@
 <div markdown="1">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=false&height=60&width=600&size=40&font=Montserrat&color=a15fdf&vCenter=true&lines=Hi!;I'm+LemonDrop!;)](https://git.io/typing-svg)
+<img align="right" alt="Stupid Gif" src="./source.gif" width="500" height="320" />
 
 🌱 Trying to learn a lot of stuff, quite new to programming🐣  
 💞️ Looking to collaborate on any and all interesting stuff😇  
-🌻 Currently learning <strong>Flutter</strong> and <strong>Dart</strong>.
+🌻 Currently learning <strong>Javascript</strong> and <strong>Dart</strong>.
 
 ## Find Me on the Web:
 
