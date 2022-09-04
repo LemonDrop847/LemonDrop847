@@ -1,6 +1,6 @@
 <div markdown="1">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=false&height=60&width=500&size=40&font=Montserrat&color=a15fdf&vCenter=true&lines=Hi!;I'm+LemonDrop!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=false&height=60&width=500&size=40&font=Montserrat&color=36BCF7&vCenter=true&lines=Hi!;I'm+LemonDrop!;)](https://git.io/typing-svg)
 <img align="right" alt="Stupid Gif" src="./source.gif" width="275" height="200" />
 
 🌱 Trying to learn a lot of stuff, quite new to programming🐣  
