@@ -128,7 +128,7 @@
 
 ## Yeah Really Bad Stats, I know.
 
-<a href="#"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=LemonDrop847&theme=algolia" alt="LemonDrop847" /></a>
+<p align="center"><a href="#"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=LemonDrop847&theme=algolia" alt="LemonDrop847" /></a></p>
 <a href="#"><img alt="LemonDrop's Github Stats:" src="https://github-readme-stats.vercel.app/api?username=LemonDrop847&show_icons=true&locale=en&hide=issues&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="192px"/></a>
 <a href="#"><img alt="LemonDrop's Top Languages:" src="https://github-readme-stats.vercel.app/api/top-langs?username=LemonDrop847&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="192px" width="450px"/></a>
 <br>
