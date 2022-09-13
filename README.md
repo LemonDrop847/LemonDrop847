@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=false&height=60&width=500&size=40&font=Montserrat&color=36BCF7&vCenter=true&lines=Hi!;I'm+LemonDrop!;)](https://git.io/typing-svg)
 <img align="right" alt="Stupid Gif" src="./source.gif" width="275" height="200" />
 
-🌱 Trying to learn a lot of stuff, quite new to programming🐣  
-💞️ Looking to collaborate on any and all interesting stuff😇  
+🌱 Trying to learn a lot of stuff, quite new to programming.🐣  
+💞️ Looking to collaborate on any and all interesting stuff.😇  
 🌻 Currently learning <strong>how to make good UI</strong>.
 
 ## Find Me on the Web:
@@ -17,7 +17,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LemonDrop | LinkedIn" width="40" height="40"/> 
 </a>
 <a href="https://instagram.com/lemon_drop_847" target="_blank"> 
-<img src="https://raw.githubusercontent.com/wle8300/instagram-logo/874dffb6fe7e064ae524959b47dae15d6ffcf224/logo.svg" alt="Instagram" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/wle8300/instagram-logo/874dffb6fe7e064ae524959b47dae15d6ffcf224/logo.svg" alt="LemonDrop | Instagram" width="40" height="40"/> 
 </a>
 <a href="mailto:awesomenitin847@gmail.com" target="_blank"> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/a0741faa8bddde0800543d6c7000da2df435718b/logos/google-gmail.svg" alt="Java" width="40" height="40"/> 
@@ -122,7 +122,7 @@
 <br>
 </p>
 
-## Yay! More People!
+### Yay! More People!
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=LemonDrop847&color=blueviolet&style=for-the-badge&label=Visitors+Here)
 
