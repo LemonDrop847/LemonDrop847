@@ -5,7 +5,7 @@
 
 🌱 Trying to learn a lot of stuff, quite new to programming🐣  
 💞️ Looking to collaborate on any and all interesting stuff😇  
-🌻 Currently learning <strong>Javascript</strong> and <strong>Dart</strong>.
+🌻 Currently learning <strong>how to make good UI</strong>.
 
 ## Find Me on the Web:
 
