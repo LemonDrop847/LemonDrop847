@@ -34,7 +34,7 @@
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/lemondrop_847)](https://www.hackerrank.com/lemondrop_847)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/LemonDrop47/)](https://leetcode.com/LemonDrop47/)
 
-## Tech Stuff I am Trying My Best To Understand:
+## Tech Stuff I am Trying to learn:
 
 <p class="tech" align="left">
 <a href="https://cplusplus.com/" target="_blank"> 
