@@ -5,7 +5,7 @@
 
 🌱 Trying to learn a lot of stuff, quite new to programming.🐣  
 💞️ Looking to collaborate on any and all interesting stuff.😇  
-🌻 Currently learning <strong>how to make good UI</strong>.
+🌻 Currently learning <strong>Machine Learning Concepts</strong>.
 
 ## Find Me on the Web:
 
@@ -135,10 +135,11 @@
 
 <br/>
 <a href="#">
-<img alt="LemonDrop's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=LemonDrop847&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="LemonDrop's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=LemonDrop847&theme=tokyo-night&hide_border=true"/>
 </a>
 </div>
 <!---
+&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true
 LemonDrop847/LemonDrop847 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
