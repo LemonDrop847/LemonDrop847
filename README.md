@@ -70,6 +70,9 @@
 <a href="https://dart.dev/" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/> 
 </a>
+<a href="https://go.dev/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" width="40" height="40"/> 
+</a>
 <br>
 <a href="https://devdocs.io/html/" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML 5" width="40" height="40"/> 
@@ -98,6 +101,7 @@
 <a href="https://git-scm.com/" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
 </a>
+
 <!---
 <br>
 <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"> 
@@ -129,7 +133,7 @@
 ## Yeah Really Bad Stats, I know.
 
 <p align="center"><a href="#"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=LemonDrop847&theme=algolia" alt="LemonDrop847" /></a></p>
-<a href="#"><img alt="LemonDrop's Github Stats:" src="https://github-readme-stats.vercel.app/api?username=LemonDrop847&show_icons=true&locale=en&hide=issues&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="192px" width="500px"/></a><a href="#"><img alt="LemonDrop's Top Languages:" src="https://github-readme-stats.vercel.app/api/top-langs?username=LemonDrop847&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="192px" width="350px"/></a>
+<a href="#"><img alt="LemonDrop's Github Stats:" src="https://github-readme-stats.vercel.app/api?username=LemonDrop847&show_icons=true&locale=en&hide=issues&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="192px" width="400px"/></a><a href="#"><img alt="LemonDrop's Top Languages:" src="https://github-readme-stats.vercel.app/api/top-langs?username=LemonDrop847&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="192px" width="400px"/></a>
 <br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
