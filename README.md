@@ -64,6 +64,9 @@
 <a href="https://dart.dev/" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/> 
 </a>
+<a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/> 
+</a>
 <a href="https://firebase.google.com/" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/> 
 </a>
@@ -72,6 +75,12 @@
 </a>
 <a href="https://go.dev/" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" width="40" height="40"/> 
+</a>
+<a href="https://jupyter.org/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/> 
+</a>
+<a href="https://www.tensorflow.org/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> 
 </a>
 <br>
 <a href="https://devdocs.io/html/" target="_blank"> 
@@ -83,10 +92,12 @@
 <a href="https://getbootstrap.com/" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/> 
 </a>
+ <a href="https://tailwindcss.com/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/> 
+</a>
 <a href="https://javascript.info/" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
 </a>
- </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
 </a>
