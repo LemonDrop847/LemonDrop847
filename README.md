@@ -67,6 +67,9 @@
 <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/> 
 </a>
+<a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40" /> 
+</a>
 <a href="https://firebase.google.com/" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/> 
 </a>
@@ -75,12 +78,6 @@
 </a>
 <a href="https://go.dev/" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" width="40" height="40"/> 
-</a>
-<a href="https://jupyter.org/" target="_blank"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/> 
-</a>
-<a href="https://www.tensorflow.org/" target="_blank"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> 
 </a>
 <br>
 <a href="https://devdocs.io/html/" target="_blank"> 
@@ -115,6 +112,12 @@
 </a>
 <a href="https://git-scm.com/" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
+</a>
+<a href="https://jupyter.org/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/> 
+</a>
+<a href="https://www.tensorflow.org/" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> 
 </a>
 
 <!---
