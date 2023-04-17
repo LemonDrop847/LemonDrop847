@@ -5,7 +5,7 @@
 
 🌱 Trying to learn a lot of stuff, quite new to programming.🐣  
 💞️ Looking to collaborate on any and all interesting stuff.😇  
-🌻 Currently learning <strong>Machine Learning Concepts</strong>.
+🌻 Currently trying to learn <strong>Machine Learning Concepts</strong>.
 
 ## Find Me on the Web:
 
