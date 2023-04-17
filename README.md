@@ -67,7 +67,7 @@
 <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/> 
 </a>
-<a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"> 
+<a href="https://www.djangoproject.com/" target="_blank"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40" /> 
 </a>
 <a href="https://firebase.google.com/" target="_blank"> 
