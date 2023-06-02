@@ -29,8 +29,8 @@
 
 ### My CP profiles:
 
-[![Codechef](https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.rating&url=https://cp-rating-api.vercel.app/codechef/lemondrop847&color=3366CC&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=86400)](https://www.codechef.com/users/lemondrop847)
-[![Codeforces](https://img.shields.io/badge/dynamic/json?&color=008000&logo=codeforces&label=Codeforces&url=https://cp-rating-api.vercel.app/codeforces/lemondrop_847&query=%24.rating&style=for-the-badge&cacheSeconds=86400)](https://codeforces.com/profile/lemondrop_847)
+[![Codechef](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fcodechef%2Fbadge%2Flemondrop847&cacheSeconds=86400)](https://www.codechef.com/users/lemondrop847)
+[![Codeforces](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fcodeforces%2Fbadge%2Flemondrop_847&cacheSeconds=86400)](https://codeforces.com/profile/lemondrop_847)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/lemondrop_847)](https://www.hackerrank.com/lemondrop_847)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/LemonDrop47/)](https://leetcode.com/LemonDrop47/)
 
