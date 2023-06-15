@@ -29,10 +29,10 @@
 
 ### My CP profiles:
 
-[![Codechef](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fcodechef%2Fbadge%2Flemondrop847&cacheSeconds=86400)](https://www.codechef.com/users/lemondrop847)
-[![Codeforces](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fcodeforces%2Fbadge%2Flemondrop_847&cacheSeconds=86400)](https://codeforces.com/profile/lemondrop_847)
+[![Codechef](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fbadge%2Fcodechef%2Flemondrop847&cacheSeconds=86400)](https://www.codechef.com/users/lemondrop847)
+[![Codeforces](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fbadge%2Fcodeforces%2Flemondrop_847&cacheSeconds=86400)](https://codeforces.com/profile/lemondrop_847)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/lemondrop_847)](https://www.hackerrank.com/lemondrop_847)
-[![LeetCode](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fleetcode%2Fbadge%2Flemondrop47&cacheSeconds=86400)](https://leetcode.com/LemonDrop47/)
+[![LeetCode](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fcp-rating-api.vercel.app%2Fbadge%2Fleetcode%2Flemondrop47&cacheSeconds=86400)](https://leetcode.com/LemonDrop47/)
 
 ## Tech Stuff I am Trying to learn:
 
