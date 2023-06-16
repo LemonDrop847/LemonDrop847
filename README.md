@@ -19,7 +19,7 @@
 <a href="https://instagram.com/lemon_drop_847" target="_blank"> 
 <img src="https://raw.githubusercontent.com/wle8300/instagram-logo/874dffb6fe7e064ae524959b47dae15d6ffcf224/logo.svg" alt="LemonDrop | Instagram" width="40" height="40"/> 
 </a>
-<a href="mailto:awesomenitin847@gmail.com" target="_blank"> 
+<a href="mailto:lemondrop847@gmail.com" target="_blank"> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/a0741faa8bddde0800543d6c7000da2df435718b/logos/google-gmail.svg" alt="Java" width="40" height="40"/> 
 </a>
 <a href="https://github.com/LemonDrop847" target="_blank"> 
@@ -153,7 +153,7 @@
 <p align="center"><a href="#"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=LemonDrop847&theme=algolia" alt="LemonDrop847" /></a></p>
 <a href="#"><img alt="LemonDrop's Github Stats:" src="https://github-readme-stats.vercel.app/api?username=LemonDrop847&show_icons=true&locale=en&hide=issues&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="192px" width="400px"/></a><a href="#"><img alt="LemonDrop's Top Languages:" src="https://github-readme-stats.vercel.app/api/top-langs?username=LemonDrop847&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="192px" width="400px"/></a>
 <br>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<b>Note:</b> Top languages is only a metric of the language my public code consists of and doesn't reflect my experience or skill level.
 
 <br/>
 <a href="#">
