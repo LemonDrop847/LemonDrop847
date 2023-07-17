@@ -5,7 +5,7 @@
 
 🌱 Trying to learn a lot of stuff, quite new to programming.🐣  
 💞️ Looking to collaborate on any and all interesting stuff.😇  
-🌻 Currently trying to learn <strong>UI/UX</strong>.
+🌻 Currently trying to learn <strong>AI/ML Concepts</strong>.
 
 ## Find Me on the Web:
 
